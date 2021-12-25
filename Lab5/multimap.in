@@ -1,0 +1,29 @@
+put a a
+put a b
+put a c
+put a a
+put a b
+put a c
+put a a
+put a b
+put a c
+put a a
+put a b
+put a c
+put a a
+put a b
+put a c
+get a
+get a
+get a
+get a
+delete a b
+get a
+get a
+get a
+get a
+deleteall a
+get a
+get a
+get a
+get a

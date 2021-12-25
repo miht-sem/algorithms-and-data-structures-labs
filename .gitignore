@@ -9,3 +9,5 @@ Lab4/.idea
 venv
 .idea
 .DS_Store
+.vscode
+TempSolutions
